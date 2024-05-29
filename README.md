@@ -59,14 +59,18 @@ configuration file.
 |                                  **_catppuccin_macchiato_**<br>[source](https://github.com/catppuccin/alacritty)                                  |  ![catppuccin_macchiato](images/catppuccin_macchiato.png)  |
 |                                    **_catppuccin_mocha_**<br>[source](https://github.com/catppuccin/alacritty)                                    |      ![catppuccin_mocha](images/catppuccin_mocha.png)      |
 |                               **_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)                               |       ![challenger_deep](images/challenger_deep.png)       |
+|                                                                  **_chicago95_**                                                                  |               ![chicago95](images/chicago95.png)           |
 |                                              **_citylights_**<br>[source](https://citylights.xyz/)                                               |           ![citylights](images/citylights.png)            |
 |                                 **_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)                                  |               ![Cobalt2](images/Cobalt2.png)               |
 |                                 **_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)                                  |       ![cyber_punk_neon](images/cyber_punk_neon.png)       |
-|                                                **_darcula_**<br>[source](https://draculatheme.com)                                                |               ![darcula](images/darcula.png)               |
 |         **_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)         |          ![dark_pastels](images/dark_pastels.png)          |
+|                   **_dark_pride_**<br>[source](https://github.com/kovidgoyal/kitty-themes/blob/master/themes/dark_pride.conf)                     |          ![dark_pride](images/dark_pride.png)          |
 |                                                                  **_deep_space_**                                                                 |             ![depp_space](images/deep_space.png)           |
 |                                     **_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)                                     |              ![doom_one](images/doom_one.png)              |
 |                                                **_dracula_**<br>[source](https://draculatheme.com)                                                |               ![dracula](images/dracula.png)               |
+|                                                **_dracula_plus_**<br>[source](https://draculatheme.com)                                           |               ![dracula_plus](images/dracula_plus.png)     |
+|                                                **_enfocado_dark_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                 |![enfocado_dark](images/enfocado_dark.png)    |
+|                                                **_enfocado_light_**<br>[source](https://github.com/wuelnerdotexe/vim-enfocado.git)                |![enfocado_light](images/enfocado_light.png)  |
 |                                     **_everforest_dark_**<br>[source](https://github.com/sainnhe/everforest)                                      |       ![everforest_dark](images/everforest_dark.png)       |
 |                                     **_everforest_light_**<br>[source](https://github.com/sainnhe/everforest)                                     |      ![everforest_light](images/everforest_light.png)      |
 |                                           **_falcon_**<br>[source](https://github.com/fenetikm/falcon)                                            |                ![falcon](images/falcon.png)                |
@@ -81,6 +85,7 @@ configuration file.
 | **_github_light_colorblind_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_colorblind.yml)| ![github_light_colorblind](images/github_light_colorblind.png) |
 | **_github_light_high_contrast_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_high_contrast.yml)| ![github_light_high_contrast](images/github_light_high_contrast.png)|
 | **_github_light_tritanopia_**<br>[source](https://github.com/projekt0n/github-theme-contrib/blob/main/themes/alacritty/github_light_tritanopia.yml)| ![github_light_tritanopia](images/github_light_tritanopia.png) |
+|                                                                   **_google_**                                                                    |                ![falcon](images/google.png)                |
 |                                                                   **_gotham_**                                                                    |                ![falcon](images/gotham.png)                |
 |                                  **_gnome_terminal_**<br>[source](https://gitlab.gnome.org/GNOME/gnome-terminal)                                  |        ![gnome_terminal](images/gnome_terminal.png)        |
 |                                        **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                         |          ![gruvbox_dark](images/gruvbox_dark.png)          |
@@ -106,11 +111,14 @@ configuration file.
 |                                                             **_material_theme_mod_**                                                              |    ![material_theme_mod](images/material_theme_mod.png)    |
 |                  **_meliora_**<br>[source](https://github.com/ramojus/mellifluous.nvim)                                                           |                ![meliora](images/meliora.png)              |
 |                  **_midnight-haze_**<br>[source](https://github.com/hafiz-muhammad/midnight-haze-alacritty-theme)                                 |    ![midnight-haze](images/midnight-haze.png)              |
+|    **_monokai_**<br>[source](https://unpkg.com/browse/alacritty-themes@4.1.5/themes/Monokai.dark.yml)                                             |    ![monokai](images/monokai.png)                          |
 |    **_monokai_charcoal_**<br>[source](https://github.com/dodeca12/Monokai-Charcoal-Theme-for-Alacritty/blob/main/monokai_charcoal_white.yaml)     |      ![monokai_charcoal](images/monokai-charcoal.png)      |
 |                      **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                       |           ![monokai_pro](images/monokai_pro.png)           |
 |                             **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |   ![moonlight_ii_vscode](images/moonlight_ii_vscode.png)   |
 |                                            **_msx_**<br>[source](https://paulwratt.github.io/programmers-palettes/HW-MSX/HW-MSX-palettes.html)    |              ![msx](images/msx.png)              |
+|                                       **_nightfly_**<br>[source](https://github.com/bluz71/vim-nightfly-colors)                                   |              ![nightfly](images/nightfly.png)              |
 |                                       **_nightfox_**<br>[source](https://github.com/EdenEast/nightfox.nvim)                                       |              ![nightfox](images/nightfox.png)              |
+|                                       **_night_owl_**<br>[source](https://vscodethemes.com/e/sdras.night-owl/night-owl)                           |             ![night_owl](images/night_owl.png)             |
 |                                                             **_night_owlish_light_**                                                              |    ![night_owlish_light](images/night_owlish_light.png)    |
 |                                       **_noctis-lux_**<br>[source](https://github.com/liviuschera/noctis)                                         |              ![noctis-lux](images/noctis-lux.png)              |
 |                                          **_nord_**<br>[source](https://github.com/arcticicestudio/nord)                                          |                  ![nord](images/nord.png)                  |
